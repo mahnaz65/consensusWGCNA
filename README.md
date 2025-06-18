@@ -4,7 +4,9 @@ The steps are as follows:
 
 [Consensus Network Construction](2.%20Consensus%20Network%20Construction.md) 
 
-[Module overlap analysis.md](3.module%20overlap%20analysis.md)
+[Module overlap analysis.md](3.module%20overlap%20analysis.md) 
+
+[Module Preservation Analysis](4.Module%20Preservation%20Analysis.md)
  
 
 
